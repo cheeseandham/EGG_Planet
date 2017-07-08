@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/SCENES/egg_world.unity
+  isLoaded: 1
+  isActive: 1
